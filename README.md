@@ -1,4 +1,3 @@
-# EDA-Terrorist-Global-Attacks
 
 # "Exploratory Data Analysis" on dataset "Global Terrorism"
 
